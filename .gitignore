@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+sanitymedium/node_modules
+
 # testing
 /coverage
 
@@ -16,7 +18,7 @@
 /build
 
 # misc
-.DS_Store
+.DS_Store 
 *.pem
 
 # debug
